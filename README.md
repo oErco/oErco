@@ -1,7 +1,7 @@
-Oie! Eu sou o Erick!
+Hi! I'm Erick! 🧔
 
-- 💻 Desenvolvedor Web Full-Stack em formação - Driven;
-- 🚀 Acadêmico de Engenharia Aeroespacial - UFSM.
+- 💻 Full-Stack Web Development student - Driven;
+- 🚀 Aerospace Engineering student - UFSM.
 
  <div>
   <a href="https://github.com/oErco">
