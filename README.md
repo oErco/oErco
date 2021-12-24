@@ -3,7 +3,7 @@
 I'm 23 years old and I'm a brazilian <b>full stack web developement</b> student at <b>Driven Education</b> 💻
 <br/>
 <br/>
-Even though I have some <b>experience with backend projects</b>, my <b>favorite area is frontend</b> and animations are my newest obsession. On the side, you can see the technologies I work with. I am currently learning Material UI.
+Even though I have some <b>experience with backend projects</b>, my <b>favorite area is frontend</b> and animations are my newest obsession. Below, you can see the technologies I work with. I am currently learning Material UI.
 <br/>
 <br/>
 <i>Fun facts: I really like fantasy and sci-fy, I love astrophysics, astronomy and everything related to space and I study aerospace engineering at the Federal University of Santa Maria</i> 🚀
