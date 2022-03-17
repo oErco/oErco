@@ -9,8 +9,7 @@ I'm 23 years old, and I'm a Brazilian <b>software engineer</b>. I work as a <b>f
 
  <div align="center">
   <a href="https://github.com/oErco">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oErco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oErco&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=oErco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
 <div align="center" style="display: inline_block" ><br>
