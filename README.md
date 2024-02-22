@@ -6,11 +6,6 @@ I'm 23 years old, and I'm a Brazilian <b>software engineer</b>. I work as a <b>f
 <i>Fun facts: I love fantasy and sci-fi, and I really like astrophysics, astronomy, and everything related to space. I also study aerospace engineering at the Federal University of Santa Maria.</i> 🚀
 <br/>
 <br/>
-
- <div align="center">
-  <a href="https://github.com/oErco">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=oErco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
  
 <div align="center" style="display: inline_block" ><br>
   <img align="center" alt="oErco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
