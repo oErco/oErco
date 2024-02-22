@@ -1,6 +1,6 @@
 ## Hi, there! I'm Erick! 🧔
 
-I'm 23 years old, and I'm a Brazilian <b>software engineer</b>. I work as a <b>full-stack web development tutor</b> at Driven Education 💻
+I'm 25 years old, and I'm a Brazilian <b>software engineer</b> 💻
 <br/>
 <br/>
 <i>Fun facts: I love fantasy and sci-fi, and I really like astrophysics, astronomy, and everything related to space. I also study aerospace engineering at the Federal University of Santa Maria.</i> 🚀
